@@ -25,7 +25,7 @@ export default function Home() {
         <div className="visual" aria-hidden="true">
           <div className="visual-card">
             <img
-              src="/assets/through-northumberland-mark.png"
+              src="./assets/through-northumberland-mark.png"
               alt=""
             />
           </div>
